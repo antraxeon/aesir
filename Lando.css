@@ -1,0 +1,130 @@
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+nav{
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    /* margin-top: 15px; */
+}
+
+.asr{
+    display: flex;
+    gap: 60px;
+    margin-right: 50%;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
+
+.nav{
+   margin-left: 50px;
+   font-size: 35px;
+   font-weight: bolder;
+}
+
+.asr h2{
+    color: black;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.rex{
+    margin-right: 50px;
+    display: flex;
+    gap: 50px;
+    font-size: 15px;
+}
+
+.body{
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    margin-top: 250px;
+    margin-left: 35px;
+}
+
+.body h4{
+    font-size: 12px;
+    font-weight: bolder;
+    margin: 30px;
+}
+
+.body h1{
+    font-size: 100px;
+    margin: 30px;
+}
+
+.body h6{
+    font-size: 20px;
+    margin: 30px;
+}
+
+button{
+    border-radius: none;
+    margin-bottom: 150px;
+    margin-left: 70px;
+    color: black;
+
+}
+
+.btn1{
+    background-color: rgba(8, 99, 244, 0.982);
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn2{
+    /* background-color: white; */
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.rex h2{
+    border-style: solid;
+    font-size: 16px;
+    padding: 19px;
+    background-color:rgba(8, 99, 244, 0.982);
+    border-radius: 5px;
+    margin-top: 15px;
+    color: white;
+}
+
+.rex h3{
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 25px;
+
+}
+.bottom{
+    text-align: center;
+    height: 105vh;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.img{
+    height: 60px;
+    /* width: 50px; */
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 34%;
+    margin-bottom: 50%;
+    background-color: red;
+
+}

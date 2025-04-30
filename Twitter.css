@@ -1,0 +1,43 @@
+section{
+    background-color: black;
+    color: white;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial, sans-serif;
+    height: 200vh;
+    width: 200vh;
+}
+
+.krp h1{
+    font-weight: bolder;
+    height: 15px;
+    margin-top: 20px;
+}
+.krp h3{
+    font-weight: lighter;
+    height: 1px;
+}
+
+.esx{
+    display: flex;
+    gap: 9px;
+    margin-bottom: 40px;
+}
+
+.esx h1{
+    font-weight: lighter;
+    /* gap: 2px; */
+}
+
+.sex{
+    font-size: 16px;
+    margin-bottom: 60px;
+}
+
+.rex{
+    font-size: 16px;
+}
+
+img{
+    display: flex;
+    height: 5vh;
+    border-radius: 10vh;
+}

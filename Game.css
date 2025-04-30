@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#gre{
+   background-color: gold;
+   height: 80vh; 
+   width: 80vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 200px;
+}

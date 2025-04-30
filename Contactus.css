@@ -1,0 +1,29 @@
+.img{
+ align-items: center;
+ height: 100vh;
+ display: flex;
+ margin-right: 2px;
+ background-color: aqua;
+}
+
+.m{
+    /* display: flex; */
+    margin-left: 120px;
+    text-align: center;
+    height: 100vh;
+    align-items: center;
+    margin-bottom: 35px;
+    font-size: 20px;
+    margin-top: 350px;
+    
+}
+
+.n{
+    margin-left: 5px;
+    text-align: center;
+    height: 100vh;
+    align-items: center;
+    margin-bottom: 535px;
+    margin-top: 50%;
+    display: flex;
+}

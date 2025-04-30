@@ -1,0 +1,14 @@
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: aqua;
+    /* padding: 15px; */
+    font-size: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: side;
+    margin: 19px;
+}
+
+table{
+    width: 50%;
+}

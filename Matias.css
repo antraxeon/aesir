@@ -1,0 +1,149 @@
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(Image/experience-the-sharpness-and-clarity-of-a-4k-uhd-desktop-uc88j9mya6pyagua.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+
+}
+
+nav{
+    background-color: transparent;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin-top: 90px;
+    margin-bottom: 12%;
+}
+
+.asr{
+    display: flex;
+    gap: 50px;
+    margin-left: 10px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin-top: 20%;
+    /* margin-bottom: 350px; */
+}
+
+.nav{
+   margin-left: 50px;
+   font-size: 35px;
+   font-weight: bolder;
+   /* margin-bottom: 350px; */
+   margin-top: 20%;
+}
+
+.asr h2{
+    color: white;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+.body{
+    text-align: left;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-bottom: 100px;
+    /* flex-direction: row; */
+    /* background-color: red; */
+}
+
+.body h4{
+    font-size: 30px;
+    font-weight: bolder;
+    /* margin: 30px; */
+    margin-bottom: 2%;
+    margin-left: 350px;
+}
+
+.body h1{
+    font-size: 100px;
+    margin-bottom: 2%;
+    margin-left: 350px;
+}
+
+.body h6{
+    font-size: 15px;
+    margin-bottom: 2%;
+    margin-left: 350px;
+}
+
+button{
+    border-radius:
+    100px;
+    display: flex;
+    /* margin-bottom: 300px; */
+    margin-left: 570px;
+    color: black;
+    /* margin-bottom: 100px; */
+    margin-top: 0px;
+
+}
+
+.btn1{
+    background-color: transparent;
+    font-size: 25px;
+    border-radius: 150px;
+    justify-content: center;
+    position: absolute;
+    padding: 10px;
+    margin-bottom: 10%;
+    margin-bottom: 90px;
+}
+
+.rex{
+    margin-bottom: 35px;
+    color: black;
+    margin-right: 70px;
+    display: flex;
+    gap: 10px;
+    font-size: 15px;
+    margin-top: 24%;
+    text-align: center;
+}
+
+.erx{
+    /* font-size: 20px; */
+    padding: 15px;
+    background-color: white;
+    margin-bottom: 50%;
+    margin-top: 35%;
+    text-align: center;
+    /* gap: 10px; */
+
+
+}
+
+.rex button{
+    border-radius: 5px;
+    margin-top: 35%;
+    margin-bottom: 50%;
+    margin-left: 250px;
+    background-color: greenyellow;
+    color: black;
+    font-size: 13px;
+    padding: 15px;
+    width: 100px;
+    border-style: solid;
+    
+}
+.bottom{
+    display: flex;
+    text-align: center;
+    height: 100vh;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: greenyellow;
+    justify-content: space-between;
+    margin-bottom: 29%;
+}

@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+}
+
+nav-container{
+    display: flex;
+}
+
+nav-container{
+    display: flex;
+    flex-direction: row;
+
+}
+
+nav-links h3{
+}

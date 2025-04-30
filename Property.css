@@ -1,0 +1,64 @@
+section{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+    gap: 10px;
+    
+}
+
+.zel h2{
+color: #3e7f6e9c;
+margin-right: 40px;
+font-size: 15px;
+text-align: center;
+}
+
+.zel h1{
+    font-size: 30px;
+    color: black;
+    margin-bottom: 2px;
+    /* margin-right: 3px;    */
+}
+
+.btn{
+    font-size: 15px;
+    padding: 20px;
+    color: white;
+    background-color: #3c9a81e3;
+    border-radius: 10px;
+    height: 5vh;
+    width: 27vh;
+}
+
+input{
+    padding: 10px;
+    border-radius: 7px;
+    border: 2px solid #3c9a81e3;
+}
+
+.cde{
+
+    display: flex;
+    gap: 10px;
+    /* justify-content: space-between; */
+}
+
+.des{
+    /* height: 5vh; */
+    width: 23vh;
+}
+
+img{
+    height: 39vh;
+    width: 45vh;
+    
+}
+
+.zel img{
+    height: 6vh;
+    width: 10vh;
+    margin-left: 80px;
+}
+    

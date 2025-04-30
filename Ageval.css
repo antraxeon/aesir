@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 500px;
+}
+
+.DEX{
+    background-color: antiquewhite;
+    height: 50vh;
+    width: 50vh;
+}
+
+input{
+    width: 500px;
+    height: 30px;
+}
+
+button{
+    width: 70px;
+    height: 35px;
+}

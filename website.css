@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    height: 70vh;
+}
+.exe{
+    text-align: center;
+    margin-top: 450px;
+    box-shadow: 10px 10px 20px black;
+}
