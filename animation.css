@@ -1,0 +1,42 @@
+
+
+.re{
+    background-color: black;
+    width: 20%;
+    height: 50vh;
+}
+
+.tr{
+    /* background-color: blue; */
+    height: 0;
+    width: 0;
+    animation: josh 5s ease-in-out infinite;
+    border-left: 25px solid transparent; border-right: 25px solid transparent; border-top: 40px solid white; 
+}
+
+.re:hover .tr{
+    /* background-color: aqua; */
+    animation-play-state: running;
+    transition:  3s ease-out;
+    /* transform: translateX(100%); */
+    /* animation: josh 2s ease-in-out infinite; */
+}
+
+h1{
+    color: red;
+}
+
+@keyframes josh{
+    0%{transform: translateX(0);}
+    /* background-color: aqua;  */
+    /* border-radius: 50% 0px 0px 50%;} */
+    25%{transform: translateY(100%);}
+    /* background-color: blueviolet;  */
+    /* border-bottom: 50px solid #555; border-left: 25px solid transparent; border-right: 25px solid transparent;} */
+    75%{transform: translateX(100%) translateY(100%);}
+    /* background-color: burlywood;  */
+    /* border-radius: 50% 50% 50% 0%;} */
+    100%{transform: translateX(100%);}
+    /* background-color: chartreuse;  */
+    /* border-radius: 50% 50% 50% 50%;} */
+}

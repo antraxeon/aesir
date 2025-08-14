@@ -13,7 +13,7 @@
     font-family: 'Sailec-Light.otf';
     src: url('fonts/Sailec-Light.otf') format('opentype'),
          url('fonts/Sailec-Light.ttf') format('truetype'),
-         url('fonts/Sailec-Light.eot') format('embedded-opentype'),
+         url('fonts/Sailec-Light.eot') format('embedded-opentype'), 
          url('fonts/Sailec-Light.svg#Sailec-Light') format('svg'),
          url('fonts/Sailec-Light.ttf') format('truetype'),
          url('fonts/Sailec-Light.woff2') format('woff2'),
@@ -140,7 +140,6 @@ button{
     height: 20vh;
     margin-top: 85px;
 }
-*/
 
 .first{
     color: #00093a;
